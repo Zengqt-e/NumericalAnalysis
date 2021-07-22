@@ -5,7 +5,6 @@
 #include <cmath>
 #include <vector>
 
-
 using namespace std;
 
 vector<double>& fpi(double (*g)(double), double x0, vector<double>& result);
